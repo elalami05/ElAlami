@@ -1,0 +1,30 @@
+#frm {
+    background-color: rgb(146, 144, 144);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    align-items: center;
+    margin: auto;
+    font-size: larger;
+    padding: 100px;
+}
+
+#btn {
+    margin-left: 200px;
+
+}
+
+.container-fluid {
+
+    color: red;
+    border-radius: 20px;
+    align-items: center;
+    margin: auto;
+    font-size: larger;
+}
+
+h1 {
+    color: red;
+    font-size: 150px;
+    text-align: center;
+    align-items: center;
+}

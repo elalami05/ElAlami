@@ -1,0 +1,13 @@
+#frm {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    height: 500px;
+    align-items: center;
+    margin: 0px;
+    padding: 0;
+}
+
+.btn-group {
+    margin-left: 150px;
+}

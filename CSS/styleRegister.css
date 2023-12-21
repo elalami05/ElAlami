@@ -1,0 +1,31 @@
+#frm {
+    background-color: rgb(146, 144, 144);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    align-items: center;
+    margin: auto;
+    font-size: larger;
+}
+
+.btn {
+    margin-left: 100px;
+    align-items: center;
+    color: red;
+    background-color: red;
+}
+
+h1 {
+    color: red;
+    font-size: 150px;
+    text-align: center;
+    align-items: center;
+}
+
+.container {
+    background-color: rgb(146, 144, 144);
+    color: red;
+    border-radius: 20px;
+    align-items: center;
+    margin: auto;
+    font-size: larger;
+}
